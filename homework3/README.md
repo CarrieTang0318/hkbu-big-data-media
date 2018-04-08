@@ -10,8 +10,8 @@
 
 ## Analysis:
 * Story point1: What is the most needed intern
-* Story point2: How much jobs published in four years and its trend(though 2018 has only passed about three months)
-* Story point3: The amounts of jobs the cities account for
+* Story point2: How much jobs(internships) published in four years and its trend(though 2018 has only passed about three months)
+* Story point3: The amounts of jobs(internships) the cities account for
 
 ## License:
 　cc 4.0
